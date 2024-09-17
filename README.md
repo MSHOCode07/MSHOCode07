@@ -1,8 +1,8 @@
 # Mis Proyectos
 
-## Proyecto 1: [Nombre del Proyecto 1]
+## Proyecto 1: [Renuevo App]
 
-![Proyecto 1](ruta/a/la/imagen-del-proyecto1.png)
+![Proyecto 1](RenuevoApp/img/041.jpg)
 
 **Descripción:**
 
