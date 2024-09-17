@@ -3,7 +3,7 @@
 ## Proyecto 1: Renuevo App
 Este proyecto es una aplicación integral para una iglesia diseñada para mejorar la gestión de actividades, eventos, y la participación de los miembros de la congregación. La app está pensada para ser una solución completa que centralice las operaciones de la iglesia, facilitando la comunicación entre los líderes y los fieles, además de mejorar la experiencia de asistencia tanto en línea como presencial.
 
-![Descripción del Proyecto 1](RenuevoApp/Login.png)
+![Descripción del Proyecto 1](RenuevoApp/imagen_pest.png)
 
 **Descripción:**
 
