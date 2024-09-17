@@ -42,7 +42,7 @@ Algunas funcionalidades principales que incluye
 ## Tecnologías Utilizadas
 
 - **Backend**:
-  <img src="https://es.m.wikipedia.org/wiki/Archivo:PHP-logo.svg" alt="PHP Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" />
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js Logo" width="50" />
   <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50" />
 
