@@ -1,16 +1,50 @@
-## Hi there 👋
+# Mis Proyectos
 
-<!--
-**MSHOCode07/MSHOCode07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyecto 1: [Nombre del Proyecto 1]
 
-Here are some ideas to get you started:
+![Proyecto 1](ruta/a/la/imagen-del-proyecto1.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Descripción:**
+
+Este proyecto está diseñado para [descripción breve del proyecto]. Algunas de las principales funcionalidades incluyen:
+
+- Funcionalidad 1: [Descripción breve de la funcionalidad]
+- Funcionalidad 2: [Descripción breve de la funcionalidad]
+- Funcionalidad 3: [Descripción breve de la funcionalidad]
+
+**Tecnologías utilizadas:**
+- [Tecnología 1]
+- [Tecnología 2]
+- [Tecnología 3]
+
+---
+
+## Proyecto 2: [Nombre del Proyecto 2]
+
+![Proyecto 2](ruta/a/la/imagen-del-proyecto2.png)
+
+**Descripción:**
+
+Este es un [descripción breve del proyecto]. Ofrece las siguientes funcionalidades principales:
+
+- Funcionalidad 1: [Descripción breve de la funcionalidad]
+- Funcionalidad 2: [Descripción breve de la funcionalidad]
+- Funcionalidad 3: [Descripción breve de la funcionalidad]
+
+**Tecnologías utilizadas:**
+- [Tecnología 1]
+- [Tecnología 2]
+- [Tecnología 3]
+
+---
+
+### Cómo ejecutar los proyectos
+
+1. Clona los repositorios:
+    ```bash
+    git clone https://github.com/usuario/proyecto1.git
+    git clone https://github.com/usuario/proyecto2.git
+    ```
+
+2. Sigue las instrucciones en cada carpeta del proyecto para ejecutar la aplicación.
+
