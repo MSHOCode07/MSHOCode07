@@ -43,26 +43,27 @@ Algunas funcionalidades principales que incluye
 ## Tecnologías Utilizadas
 
 - **Backend**:
-  ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.png)
-  ![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-  ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.png" alt="PHP Logo" width="50" />
+  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js Logo" width="50" />
+  <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50" />
 
 - **Frontend**:
-  ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  ![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/c/c0/Angular_logo.png)
-  ![Vue.js Logo](https://vuejs.org/images/logo.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Angular_logo.png" alt="Angular Logo" width="50" />
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="50" />
 
 - **Mobile**:
-  ![Flutter Logo](https://flutter.dev/assets/homepage/carousel/phone-02b9a34ef31a38a27b4d18910a1f5ecf1a8a4baf894fc9f9f3bfa01faeb2cb35.png)
-  ![React Native Logo](https://reactnative.dev/img/header_logo.svg)
+  <img src="https://flutter.dev/assets/homepage/carousel/phone-02b9a34ef31a38a27b4d18910a1f5ecf1a8a4baf894fc9f9f3bfa01faeb2cb35.png" alt="Flutter Logo" width="50" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="50" />
 
 - **Transmisión en Vivo**:
-  ![YouTube Live Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)
-  ![Facebook Live Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_Live_logo.png)
-  ![RTMP Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/RTMP_Logo.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Live Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_Live_logo.png" alt="Facebook Live Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/RTMP_Logo.png" alt="RTMP Logo" width="50" />
 
 - **Notificaciones Push**:
-  ![Firebase Logo](https://firebase.google.com/images/brand-guidelines/wordmark.png)
+  <img src="https://firebase.google.com/images/brand-guidelines/wordmark.png" alt="Firebase Logo" width="50" />
+
 
 
 ## Proyecto 2: [Nombre del Proyecto 2]
