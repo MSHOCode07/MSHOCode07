@@ -8,26 +8,26 @@ Este proyecto es una aplicación integral para una iglesia diseñada para mejora
 
 Algunas funcionalidades principales que incluye 
 
-### 1. Agenda de Eventos y Servicios
+### 1. Agenda de Eventos y Servicios  📆
 - **Calendario interactivo** que muestra servicios semanales, eventos especiales y reuniones.
 - **Notificaciones automáticas** para recordar eventos próximos.
-- 
-### 2. Gestión de Miembros
+
+### 2. Gestión de Miembros 👥
 - Registro y seguimiento de nuevos miembros.
 - Perfiles personalizados con roles y preferencias de comunicación.
 
-### 3. Grupos Pequeños y Ministerios
+### 3. Grupos Pequeños y Ministerios ⛪
 - Herramientas para **creación y gestión** de grupos pequeños y ministerios.
 - Control de asistencias a grupos pequeños o cultos.
 
-### 4. Directorio Celular
+### 4. Directorio Celular 🗺️
 - Herramientos para visualizar la ubicación de las reuniones que se realizan.
 
-### 8. Aplicación Móvil
+### 8. Aplicación Móvil 📱
 - **Compatibilidad Android**.
 - **Diseño responsivo** para una experiencia óptima en diferentes dispositivos.
 
-### 12. Reportes Personalizados
+### 12. Reportes Personalizados 📊
 - **Generación de reportes** detallados sobre la asistencia a eventos, donaciones, y actividades de los miembros.
 - **Filtros avanzados** para personalizar los informes por fecha, tipo de evento, ministerio, u otros parámetros.
 - **Exportación** de reportes en formatos PDF y Excel para compartir con el liderazgo de la iglesia o archivarlos.
