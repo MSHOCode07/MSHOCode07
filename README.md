@@ -57,15 +57,31 @@ Algunas funcionalidades principales que incluye
 ## Imágenes
 
 - **Login**  
-  <img src="RenuevoApp/login.png" alt="Descripción del Proyecto 1" width="400" />
-  PHP es un lenguaje de scripting ampliamente utilizado para el desarrollo web.
+  <img src="RenuevoApp/login.png" alt="Descripción del Proyecto 1" />
 
 - **Dashboard**  
-  <img src="RenuevoApp/Dashboard.png" alt="Descripción del Proyecto 1" width="400" />
-  Node.js permite ejecutar JavaScript en el servidor.
+  <img src="RenuevoApp/Dashboard.png" alt="Descripción del Proyecto 1" />
 
+- **Seguimiento**  
+  <img src="RenuevoApp/Seguimiento.png" alt="Descripción del Proyecto 1" />
 
+- **Reuniones o Celulas**  
+  <img src="RenuevoApp/Celulas.png" alt="Descripción del Proyecto 1" />
 
+- **Asistencias**  
+  <img src="RenuevoApp/Asistencia Celulas.png" alt="Descripción del Proyecto 1" />
+  
+- **Eventos**  
+  <img src="RenuevoApp/eventos.png" alt="Descripción del Proyecto 1" />
+
+- **Directorio Celular**  
+  <img src="RenuevoApp/Directorio Celular.png" alt="Descripción del Proyecto 1" />
+
+- **Directorio Celular**  
+  <img src="RenuevoApp/movil.png" alt="Descripción del Proyecto 1" />
+
+- **Reporte**  
+  <img src="RenuevoApp/ReporteConsolidación.png" alt="Descripción del Proyecto 1" />
 
 
 ## Proyecto 2: [Nombre del Proyecto 2]
