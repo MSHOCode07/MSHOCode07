@@ -2,7 +2,7 @@
 
 ## Proyecto 1: [Renuevo App]
 
-![Proyecto 1](RenuevoApp/img/041.jpg)
+![Proyecto 1](RenuevoApp/asistencias_celulas.png)
 
 **Descripción:**
 
