@@ -57,7 +57,7 @@ Algunas funcionalidades principales que incluye
 ## Imágenes
 
 - **Login**  
-  <img src="RenuevoApp/login.png" alt="Descripción del Proyecto 1" />
+  <img src="RenuevoApp/Login.png" alt="Descripción del Proyecto 1" />
 
 - **Dashboard**  
   <img src="RenuevoApp/Dashboard.png" alt="Descripción del Proyecto 1" />
@@ -69,7 +69,7 @@ Algunas funcionalidades principales que incluye
   <img src="RenuevoApp/Celulas.png" alt="Descripción del Proyecto 1" />
 
 - **Asistencias**  
-  <img src="RenuevoApp/Asistencia Celulas.png" alt="Descripción del Proyecto 1" />
+  <img src="RenuevoApp/Asistencia Celula.png" alt="Descripción del Proyecto 1" />
   
 - **Eventos**  
   <img src="RenuevoApp/eventos.png" alt="Descripción del Proyecto 1" />
@@ -77,7 +77,7 @@ Algunas funcionalidades principales que incluye
 - **Directorio Celular**  
   <img src="RenuevoApp/Directorio Celular.png" alt="Descripción del Proyecto 1" />
 
-- **Directorio Celular**  
+- **Aplicación Movil**  
   <img src="RenuevoApp/movil.png" alt="Descripción del Proyecto 1" />
 
 - **Reporte**  
