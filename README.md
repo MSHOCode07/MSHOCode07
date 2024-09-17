@@ -122,20 +122,20 @@ Esta aplicación está diseñada para gestionar una tienda física que vende pro
 - **Protección de Datos**: Las imágenes utilizadas en este repositorio son de prueba y están diseñadas para ilustrar las funcionalidades de la aplicación. No contienen datos reales para garantizar la privacidad y la protección de la información sensible.
 
 - **Login**  
-  <img src="GrupoBarros/login.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/login.png" alt="Descripción del Proyecto 1"  width="800"/>
 
 - **Dashboard**  
-  <img src="GrupoBarros/dashboard.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/dashboard.png" alt="Descripción del Proyecto 1" width="800" />
 
 - **Productos**  
-  <img src="GrupoBarros/productos.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/productos.png" alt="Descripción del Proyecto 1"  width="800"/>
 
 - **venta**  
-  <img src="GrupoBarros/venta.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/venta.png" alt="Descripción del Proyecto 1" width="800"/>
 
 - **Ticket**  
-  <img src="GrupoBarros/ticket.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/ticket.png" alt="Descripción del Proyecto 1"  width="800"/>
   
 - **Aplicacion Movil**  
-  <img src="GrupoBarros/movil.png" alt="Descripción del Proyecto 1" />
+  <img src="GrupoBarros/movil.png" alt="Descripción del Proyecto 1"  width="800"/>
 
