@@ -93,11 +93,16 @@ Esta aplicación está diseñada para gestionar una tienda física que vende pro
 
 ### Características Principales
 
-- **Catálogo de Productos**: Visualiza y busca productos por categoría, precio y popularidad.
-- **Proceso de Compra**: Realiza compras con opciones de pago seguras y fáciles de usar.
-- **Gestión de Usuarios**: Registra y autentica usuarios, gestiona perfiles y preferencias.
-- **Panel de Administración**: Administra productos, gestiona pedidos y usuarios desde un panel intuitivo.
-- **Reportes Personalizados**: Genera reportes detallados sobre ventas, usuarios y productos.
+- **Catálogo de Productos** 📦
+- Visualiza y busca productos por categoría, precio y popularidad.
+- **Proceso de Compra** 🛒
+- Realiza compras con opciones de pago seguras y fáciles de usar.
+- **Gestión de Usuarios** 👥
+- Registra y autentica usuarios, gestiona perfiles y preferencias.
+- **Panel de Administración** 🏢
+- Administra productos, gestiona pedidos y usuarios desde un panel intuitivo.
+- **Reportes Personalizados** 📊
+- Genera reportes detallados sobre ventas, usuarios y productos.
 
 ## Tecnologías Utilizadas
 
@@ -128,5 +133,7 @@ Esta aplicación está diseñada para gestionar una tienda física que vende pro
 
 - **Ticket**  
   <img src="GrupoBarros/ticket.png" alt="Descripción del Proyecto 1" />
-
+  
+- **Aplicacion Movil**  
+  <img src="GrupoBarros/movil.png" alt="Descripción del Proyecto 1" />
 
