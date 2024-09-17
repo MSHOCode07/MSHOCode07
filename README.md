@@ -43,14 +43,15 @@ Algunas funcionalidades principales que incluye
 
 - **Backend**:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" />
-  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Node.js Logo" width="50" />
-  <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Lavravel" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="Lavravel" width="50" />
 
 - **Frontend**:
-  <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="50" />
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="25" />
 
 - **Notificaciones Push**:
-  <img src="https://firebase.google.com/images/brand-guidelines/wordmark.png" alt="Firebase Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase Logo" width="50" />
 
 
 ## Imágenes
