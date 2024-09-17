@@ -85,32 +85,48 @@ Algunas funcionalidades principales que incluye
   <img src="RenuevoApp/ReporteConsolidación.png" alt="Descripción del Proyecto 1" />
 
 
-## Proyecto 2: [Nombre del Proyecto 2]
+## Proyecto 2: Grupo Barros  <img src="GrupoBarros/image_logo.png" alt="Descripción del Proyecto 1" width="45" />
 
-![Proyecto 2](ruta/a/la/imagen-del-proyecto2.png)
+## Descripción
 
-**Descripción:**
+Esta aplicación está diseñada para gestionar una tienda física que vende productos en su local. La aplicación permite a los empleados administrar inventario, realizar ventas y gestionar información de clientes y proveedores. Está orientada a mejorar la eficiencia operativa de la tienda y facilitar el seguimiento de ventas y productos.
 
-Este es un [descripción breve del proyecto]. Ofrece las siguientes funcionalidades principales:
+### Características Principales
 
-- Funcionalidad 1: [Descripción breve de la funcionalidad]
-- Funcionalidad 2: [Descripción breve de la funcionalidad]
-- Funcionalidad 3: [Descripción breve de la funcionalidad]
+- **Catálogo de Productos**: Visualiza y busca productos por categoría, precio y popularidad.
+- **Proceso de Compra**: Realiza compras con opciones de pago seguras y fáciles de usar.
+- **Gestión de Usuarios**: Registra y autentica usuarios, gestiona perfiles y preferencias.
+- **Panel de Administración**: Administra productos, gestiona pedidos y usuarios desde un panel intuitivo.
+- **Reportes Personalizados**: Genera reportes detallados sobre ventas, usuarios y productos.
 
-**Tecnologías utilizadas:**
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
+## Tecnologías Utilizadas
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="MySQL Logo" width="50" />
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="57" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript Logo" width="57" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase Logo" width="100" />
+</div>
 
-### Cómo ejecutar los proyectos
+## Imágenes
 
-1. Clona los repositorios:
-    ```bash
-    git clone https://github.com/usuario/proyecto1.git
-    git clone https://github.com/usuario/proyecto2.git
-    ```
+- **Login**  
+  <img src="GrupoBarros/login.png" alt="Descripción del Proyecto 1" />
 
-2. Sigue las instrucciones en cada carpeta del proyecto para ejecutar la aplicación.
+- **Dashboard**  
+  <img src="GrupoBarros/dashboard.png" alt="Descripción del Proyecto 1" />
+
+- **Productos**  
+  <img src="GrupoBarros/productos.png" alt="Descripción del Proyecto 1" />
+
+- **venta**  
+  <img src="GrupoBarros/venta.png" alt="Descripción del Proyecto 1" />
+
+- **Ticket**  
+  <img src="GrupoBarros/ticket.png" alt="Descripción del Proyecto 1" />
+
 
