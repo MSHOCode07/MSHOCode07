@@ -56,6 +56,7 @@ Algunas funcionalidades principales que incluye
 
 
 ## Imágenes
+- **Protección de Datos**: Las imágenes utilizadas en este repositorio son de prueba y están diseñadas para ilustrar las funcionalidades de la aplicación. No contienen datos reales para garantizar la privacidad y la protección de la información sensible.
 
 - **Login**  
   <img src="RenuevoApp/Login.png" alt="Descripción del Proyecto 1" />
@@ -118,6 +119,7 @@ Esta aplicación está diseñada para gestionar una tienda física que vende pro
 </div>
 
 ## Imágenes
+- **Protección de Datos**: Las imágenes utilizadas en este repositorio son de prueba y están diseñadas para ilustrar las funcionalidades de la aplicación. No contienen datos reales para garantizar la privacidad y la protección de la información sensible.
 
 - **Login**  
   <img src="GrupoBarros/login.png" alt="Descripción del Proyecto 1" />
