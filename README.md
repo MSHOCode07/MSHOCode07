@@ -41,14 +41,17 @@ Algunas funcionalidades principales que incluye
 
 ## Tecnologías Utilizadas
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Lavravel" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="Lavravel" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" alt="MySQL Logo" width="50" />
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Firebase Logo" width="57" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="Firebase Logo" width="57" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase Logo" width="57" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="57" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript Logo" width="57" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase Logo" width="100" />
+</div>
+
 
 
 
